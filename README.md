@@ -1,5 +1,4 @@
-This project explores different deep learning models for this [Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
-competition for my SharpestMinds application.
+This project explores different deep learning models for this [Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) competition for my [SharpestMinds](https://www.sharpestminds.com/) application.
 
 ### Files to be Added:
 1. Since the data for Kaggle competitions can be used only if their terms and conditions are accepted, it is not included in this 
@@ -18,4 +17,4 @@ keras
 matplotlib
 
 ### Notes:
-The outputs of a few of the cells in the notebook have been cleared, due to large size which might hinder with code readability.
+The outputs of a few of the cells in the notebook have been cleared due to their large sizes, as they might hinder with code readability.
