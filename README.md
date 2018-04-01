@@ -7,4 +7,12 @@ repo. It can be found [here](https://www.kaggle.com/c/jigsaw-toxic-comment-class
 The GloVe model used can be found from [here](https://nlp.stanford.edu/projects/glove/). The 100d model based on the Twitter data
 is used.
 
-Both the above files would be required to run this Jupyter notebook successfully.
+Both the above files would be required under the 'data' dir to run this Jupyter notebook successfully.
+
+Other dependencies:
+pandas
+numpy
+_pickle
+sklearn
+keras
+matplotlib
