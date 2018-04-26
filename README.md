@@ -1,4 +1,4 @@
-This project explores different deep learning models for [this](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) Kaggle competition for my [SharpestMinds](https://www.sharpestminds.com/) application.
+This project explores different deep learning models for [this](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) Kaggle competition.
 
 ### Files to be Added:
 1. Since the data for Kaggle competitions can be used only if their terms and conditions are accepted, it is not included in this 
